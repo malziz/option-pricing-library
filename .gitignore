@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Local practice files and folders
+option_pricing_prex/
+crr_pricing.py
+mc_pricing.py
+parity_equation.py
